@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(untitled1 src/main.cpp
         include/Card.hpp
-        include/PlayerField.hpp)
+        include/PlayerField.hpp
+        include/Player.hpp
+        include/Effect.hpp)
